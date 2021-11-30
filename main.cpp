@@ -2,7 +2,6 @@
 #include "lib.h"
 
 using namespace std;
-
 int main() {
     char a=a;
     cin>>a;
@@ -11,6 +10,5 @@ int main() {
     }else{
         cout <<a;
     }
-
     return 0;
 }
